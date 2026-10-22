@@ -1,5 +1,7 @@
 # 리뷰의 사용 경험을 검색 가능한 카탈로그로
 
+<img src="https://raw.githubusercontent.com/subjective-experience-shopping-platform/review-catalog-platform/refs/heads/main/assets/experience-3.png" alt="리뷰 카탈로그 시스템 아키텍처" width="100%" />
+
 본 프로젝트 취미로 시작한 여러 홈페이지에 흩어져있는 키보드의 정보와 리뷰를 수집하던 작은 자동화 도구에서 범용적인 상품들의 체감 속성을 비교하는 MCP를 거쳐, 최종적으로는 객관, 체감, 판매 속성을 종합적으로 고려하여 상품을 검색 및 추천하는 AI 쇼핑 에이전트로 발전시켜 나아가는 전 과정을 포함하고 있습니다.
 
 ## 개요
